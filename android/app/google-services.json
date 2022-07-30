@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590207086568",
+    "project_id": "queue-management-f697f",
+    "storage_bucket": "queue-management-f697f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590207086568:android:50ce826d367966e5467e5d",
+        "android_client_info": {
+          "package_name": "moreli.com.br.queue_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590207086568-d5m79du5hk8t5ifjkeh52ota3t5qg2ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HhkhEV5rucNFU9CPq4WF8i0OKJ2U7lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590207086568-d5m79du5hk8t5ifjkeh52ota3t5qg2ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
