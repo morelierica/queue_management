@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^1.20.0
   cloud_firestore: ^3.4.2
+  provider: ^6.0.3
 
 dev_dependencies:
   fake_cloud_firestore: ^1.2.2
