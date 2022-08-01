@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:queue_management/src/configuration/configuration_module.dart';
 import 'package:queue_management/src/queue/queue_module.dart';
 
 class AppWidget extends StatelessWidget {
@@ -10,6 +11,7 @@ class AppWidget extends StatelessWidget {
     return MultiProvider(
       providers: [
         ...queueModule,
+        ...configurationModule,
       ],
       child: const MaterialApp(),
     );
